@@ -55,11 +55,6 @@ if __name__ == "__main__":
     logging.basicConfig(level="DEBUG")
 
     print('"", 10 -- ' + str(CheckStringLength.checkstringlength("", 10)))
-    print(
-        "Hello World, 10 -- "
-        + str(CheckStringLength.checkstringlength("Hello World", 10))
-    )
-    print(
-        "Hello World, 11 -- "
-        + str(CheckStringLength.checkstringlength("Hello World", 11))
-    )
+    print("Hello World, 10 -- " + str(CheckStringLength.checkstringlength("Hello World", 10)))
+    print("Hello World, 11 -- " + str(CheckStringLength.checkstringlength("Hello World", 11)))
+
