@@ -4,3 +4,8 @@
 
 Simple and straight-forward method to ensure any string is the desired length.
 
+---
+
+Because I always need to look this up:
+
+- [Source of the Poetic License](https://github.com/alexgenaud/Poetic-License)
